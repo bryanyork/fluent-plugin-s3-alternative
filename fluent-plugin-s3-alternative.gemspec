@@ -7,8 +7,8 @@ Gem::Specification.new do |gem|
   gem.version       = "0.0.1"
   gem.authors       = ["Satoshi SUZUKI"]
   gem.email         = ["studio3104.com@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "Fluent Plugin S3 Alternative"
+  gem.summary       = "Fluent Plugin S3 Alternative"
   gem.homepage      = "https://github.com/studio3104/fluent-plugin-s3-alternative"
 
   gem.files         = `git ls-files`.split($/)
